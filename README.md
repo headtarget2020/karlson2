@@ -1,1 +1,1 @@
-put these in a folder and launch the .exe file
+put these in a folder and launch the karlson.exe file
